@@ -1,0 +1,5 @@
+1,Michelle Chu,Female,Riverside,21,0
+2,James Ooi,Female,Riverside,22,0
+3,Yuteng Wu,Female,Riverside,21,2
+4,Xin Wang,Female,Riverside,20,3
+\.
